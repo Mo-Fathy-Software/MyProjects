@@ -4,15 +4,11 @@ Welcome to my **C++ Projects Repository**! This collection showcases my practica
 
 ---
 
-## 📂 Repository Structure
+## 🐼Latest Projects
 
 | # | Project Name | Category | Core Concepts & Technologies |
 | :--- | :--- | :--- | :--- |
-| **01** | [**Stone-Paper-Scissors**](./01-Stone-Paper-Scissors) | Console Game | Enums, Structs, Randomization, Game Loop Logic |
-| **02** | [**Math Quiz Game**](./02-Math-Quiz-Game) | Console Game | Difficulty Levels, Score Tracking, Modular Functions |
-| **03** | [**Bank Management System**](./L4-Project-BankExtension-4.cpp) | Full System | File I/O (CRUD), Vectors, User Permissions, Bitwise Operators |
-| **04** | [**ATM Management System**](./04-ATM-Management-System) | Full System | File I/O (CRUD), Vectors, User Permissions, Bitwise Operators |
-| **05** | [**OOP Projects & Calculator**](./05-OOP-Projects) | Object-Oriented | Classes, Encapsulation, Constructors, Clean Architecture |
+| **01** | [**Bank Management System**](./L4-Project-BankExtension-4.cpp) | Full System | File I/O (CRUD), Vectors, User Permissions, Bitwise Operators |
 
 ---
 
